@@ -8,6 +8,8 @@ namespace MacDatabinding
 		{
 			NSApplication.Init ();
 			NSApplication.Main (args);
+			
+			//asdflaja;lsdfj
 		}
 	}
 }
